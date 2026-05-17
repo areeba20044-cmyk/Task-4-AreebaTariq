@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bahria Living
 
 ## Project Title
@@ -38,16 +39,14 @@ A polished real estate landing page built for Bahria Town properties across Paki
 2. No server is required for local testing, but you can use any static server if preferred.
 
 ## Notes
-- This workspace does not currently have git available in the environment, so pushing the code from here is not possible.
-- To push this project to `https://github.com/areeba20044-cmyk/Task-4-AreebaTariq`, run git commands locally once git is installed and configured.
+- The project is now committed and ready to push to GitHub from this repository.
+- The current code base includes the landing page files and a README describing the project.
 
 ## Suggested Git Push Steps
 ```bash
 cd "c:/Users/User/Documents/bahria living"
-git init
 git add .
-git commit -m "Add Bahria Living project"
-git remote add origin https://github.com/areeba20044-cmyk/Task-4-AreebaTariq.git
-git branch -M main
+git commit -m "Resolve merge conflict and finalize Bahria Living project"
 git push -u origin main
 ```
+
