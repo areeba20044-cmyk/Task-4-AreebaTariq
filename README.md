@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bahria Living
 
 ## Project Title
